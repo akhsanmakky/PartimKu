@@ -6,7 +6,7 @@ Aplikasi mobile **PartimKU** adalah platform pencarian lowongan kerja part-time 
 
 ## 🔗 Link Project
 - 📂 Source Code: https://github.com/akhsanmakky/PartimKu
-- 📱 APK: (https://drive.google.com/drive/folders/1QYOwqiHKQaDeaZSne4C8oLP3RSx2kKuS?usp=drive_link)
+- 📱 APK:(https://drive.google.com/drive/folders/1QYOwqiHKQaDeaZSne4C8oLP3RSx2kKuS?usp=drive_link)
 
 
 ---
